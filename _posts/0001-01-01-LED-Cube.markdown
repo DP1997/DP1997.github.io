@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "LED-Cube"
+categories: jekyll update
+---
+
+Some content about LED-Cube.
