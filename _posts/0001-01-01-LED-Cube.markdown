@@ -2,6 +2,14 @@
 layout: post
 title:  "LED-Cube"
 categories: jekyll update
+github: "https://github.com/DP1997/LED-Cube"
 ---
 
-Some content about LED-Cube.
+![overview](/assets/images/LED-Cube1.PNG){:height="355px" width="325px"}<br>
+In this project I build and programmed a 4x4x4 LED-Cube in a team of two people.
+It is based on an Arduino Uno R3, which is the *brains* of the cube.
+It not only connects all parts of the cube physically, but also runs the code that executes different light patterns.<br>
+The cube is equipped with an infrared sensor which enables the user to set different, predefined light patterns via a remote control. Furthermore, the cube features a soundsensor. Set to the respective mode, the cube can respond to soundwaves, playing light patterns in accordance to the strength of the wave.<br>
+I think the strengths of the cube are best conveyed via a video:<br>
+<br>
+Those who are interested can find a [construction manual here]({{ site.url }}/assets/download/LED-Cube_construction_manual.pdf). But be aware, it is written in German...

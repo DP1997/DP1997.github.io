@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-Here my CV: ---
+Here my [CV]({{ site.url }}/assets/download/resume_Donald_Pfaffmann.pdf).

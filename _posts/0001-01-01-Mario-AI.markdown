@@ -4,4 +4,4 @@ title:  "Mario-AI"
 categories: jekyll update
 ---
 
-Some content about Mario-AI.
+Implemented an autonomous agent operating Mario through randomly generated levels by utilizing A*-search in a team of two. The major challenge was coming up with a proper heuristic that maximizes the score of Mario. Placed third in an oﬃcial competition held among all course members.
