@@ -2,6 +2,7 @@
 layout: post
 title:  "Internship at SN TPS"
 categories: jekyll update
+confidential: true
 ---
 
 As the work I completed during my internship at SN TPS is __confidential__, I can't tell you much about it.

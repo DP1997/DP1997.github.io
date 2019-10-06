@@ -1,7 +1,0 @@
----
-layout: post
-title:  "MP3-Player"
-categories: jekyll update
----
-
-Some content about MP3-Player.

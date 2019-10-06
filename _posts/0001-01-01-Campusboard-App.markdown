@@ -3,6 +3,7 @@ layout: post
 title:  "Campusboard-App"
 categories: jekyll update
 github: "https://github.com/Informatik-HS-KL/Campusboard-App"
+confidential: true
 ---
 
 In this project I contributed to the further development of the official mobile application of the University of Applied Sciences Kaiserslautern - as a member of a group of 4 people.<br>

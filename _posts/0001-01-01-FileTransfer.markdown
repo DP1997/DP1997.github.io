@@ -2,6 +2,7 @@
 layout: post
 title:  "FileTransfer"
 categories: jekyll update
+confidential: false
 github: "https://github.com/DP1997/FileTransfer"
 ---
 
