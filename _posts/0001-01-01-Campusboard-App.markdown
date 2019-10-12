@@ -11,6 +11,7 @@ In this project I contributed to the further development of the official mobile 
 The group was split in 2 teams of 2 people respectively, each working on a different task.
 My team was responsible for implementing the functionality of capturing present students in exams by scanning their student license with nfc or it's barcode with the smartphone camera.
 This view is the result of our efforts:
+
 ![overview](/assets/images/cambusboard-app2.PNG){:height="784px" width="427px"}<br>
 
 It displays all students that have applied online for the exam <span style="color: red">3-5)</span>. The application fetches this information from an internal database.

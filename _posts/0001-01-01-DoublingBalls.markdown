@@ -6,7 +6,6 @@ confidential: false
 github: "https://github.com/DP1997/DoublingBalls"
 ---
 
-![overview](/assets/images/DoublingBalls-AppIcon.png){:class="img-responsive"}<br>
 In this project I developed a *Run & Gun* game for Android smartphones in a team of two.
 The app is written in Java and without the aid of any frameworks.
 That means everything is *handmade*: from the bitmap transformations to the physics of the ball (bounce effect).

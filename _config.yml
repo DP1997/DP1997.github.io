@@ -25,6 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   please feel free to contanct me via the provided e-mail.
   That is by far the best way to reach out to me :).
 
+show_excerpts: false
+
 baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DP1997
