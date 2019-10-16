@@ -11,6 +11,7 @@ In this project I built and programmed a 4x4x4 LED-Cube in a team of two people.
 It is based on an Arduino Uno R3, which is the *brains* of the cube.
 It not only connects all parts of the cube physically, but also runs the code that executes different light patterns.<br>
 The cube is equipped with an infrared sensor which enables the user to set different, predefined light patterns via a remote control. In addition, the cube features a sound sensor. Set to the respective mode, the cube can respond to soundwaves, playing light patterns in accordance to the strength of the wave.<br>
-I think the strengths of the cube are best conveyed via a video:<br>
+I think the strengths of the cube are best conveyed via a video. Unfortunately, the only video I have at hand is one where the cube is still in production (notice the tools and the laptop ^^). Nevertheless, it should paint a clearer picture of what it is doing:<br>
+{% include youtubePlayer.html id="ZdL_ZSniyfE" %}
 <br>
 Those who are interested can find a [construction manual here]({{ site.url }}/assets/download/LED-Cube_construction_manual.pdf). But be aware, it is written in German...
