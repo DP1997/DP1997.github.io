@@ -2,7 +2,6 @@
 layout: post
 title:  "Campusboard-App"
 categories: jekyll update
-github: "https://github.com/Informatik-HS-KL/Campusboard-App"
 confidential: true
 ---
 
@@ -23,7 +22,7 @@ In the case of an unexpected error - such as a student license not being recogni
 <br>
 <span style="color: red">1)</span> lets the user manage the list view. He can configure the list to show only uploaded, scanned, unscanned or any combination of the aforementioned.
 <br>
-<span style="color: red">9)</span> represents the ratio of scanned to applied students as well as uploaded to applied students. This allows the professor or his/her assistant to gain an overview in one glance.
+<span style="color: red">9)</span> represents the ratio of scanned to applied students as well as uploaded to applied students. This allows the professor or their assistant to gain an overview in one glance.
 <br>
 In order to push the current status of all students to the database, the user has to press button <span style="color: red">7)</span>.
 <br>
