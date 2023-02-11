@@ -2,7 +2,6 @@
 layout: post
 title:  "Campusboard-App"
 categories: jekyll update
-confidential: true
 ---
 
 In this project I contributed to the further development of the official mobile application of the University of Applied Sciences Kaiserslautern - as a member of a group of 4 people.<br>
@@ -20,7 +19,7 @@ Furthermore, it indicates if an applied student is already saved in the database
 <br>
 In the case of an unexpected error - such as a student license not being recognized as such by the application - the status of a single student can also edited manually by tapping the respective name in the list view. For this to be more efficient - especially in exams with a lot of students - students can be searched by name, student number or field of study (which are all being displayed in the list as well).
 <br>
-<span style="color: red">1)</span> lets the user manage the list view. He can configure the list to show only uploaded, scanned, unscanned or any combination of the aforementioned.
+<span style="color: red">1)</span> lets the user manage the list view. They can configure the list to show only uploaded, scanned, unscanned or any combination of the aforementioned.
 <br>
 <span style="color: red">9)</span> represents the ratio of scanned to applied students as well as uploaded to applied students. This allows the professor or their assistant to gain an overview in one glance.
 <br>

@@ -5,11 +5,19 @@ categories: jekyll update
 github: "https://github.com/DP1997/Mario-AI"
 ---
 
-In this project I implemented an autonomous agent operating Mario through randomly generated levels by utilizing the A*-search in a team of two. The major challenge was coming up with a proper heuristic that maximizes the score of Mario. We placed first in an oﬃcial competition held among all course members.<br>
+In this project I implemented an autonomous agent operating Mario through randomly generated levels by utilizing the A*-search in a team of two. The major challenge was coming up with a proper heuristic that maximizes the score of Mario. We placed third in an oﬃcial competition held among all course members.
+<br>
+
 I think a video will paint a clearer picture of what the agent does:
 {% include youtubePlayer.html id="AqjQTHlQvmw" %}
-Notice the *lag*-spikes in the video - these are the times that the processor has to boulder a heavy computanial load. This happens when the agent has to consider a lot of different paths (a lot of enemies can trigger this), in order to calculate the best one (highest score).<br>
-Keep in mind that the agent can see further than the actual screen width, spotting enemies before they appear on screen.<br>
-The red line represents the most recent calculation of the optimal path calculated by the agent.<br>
+Notice the *lag*-spikes in the video - these are the times that the CPU has to boulder a heavy computational load. This happens when the agent has to consider a lot of different paths (a lot of enemies can trigger this), in order to calculate the best one (highest score).
+<br>
+
+Keep in mind that the agent can see further than the actual screen width, spotting enemies before they appear on screen.
+<br>
+
+The red line represents the most recent calculation of the best path calculated by the agent.
+<br>
+
 __You will need this [jar]({{ site.url }}/assets/download/marioAI-1.6.jar) in combination with the code to run the agent!__
 
