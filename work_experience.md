@@ -14,7 +14,7 @@ I think it is best to stick to my internship certificates in this regard. They w
 Please take note of the fact that certificate is written in German. [Here]({{ site.url }}/assets/download/Daimler_Truck_AG_internship_certificate_Pfaffmann.pdf) you can find an unofficial translation of the certificate to English.
 <br>
 
-[Internship Certificate SN TPS]({{ site.url }}/assets/download/SNTPS_internship_certificate.pdf)<br>
+[Internship Certificate SN TPS]({{ site.url }}/assets/download/SNTPS_internship_certificate_Pfaffmann.pdf)<br>
 For my stay in India, I received a schoolarship from <a href="https://www.daad.de/en/">__DAAD__</a> (German Academic Exchange Service).
 You can find the certificate [here]({{ site.url }}/assets/download/Stipendienurkunde_DAAD_19_Pfaffmann.jpg).
 <br>
