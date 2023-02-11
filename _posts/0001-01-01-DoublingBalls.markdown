@@ -12,12 +12,15 @@ We were quite proud of this one!
 <br><br>
 
 Start screen:
-![overview](/assets/images/DoublingBalls-Start.png){:height="355px" width="325px"}
+![overview](/assets/images/DoublingBalls-Start.png){:class="img-responsive"}
 <br><br>
 Explanation when first starting the actual game:
-![overview](/assets/images/DoublingBalls-Explanation.png){:height="355px" width="325px"}<br><br>
+![overview](/assets/images/DoublingBalls-Explanation.png){:class="img-responsive"}<br><br>
 View of the shop:
-![overview](/assets/images/DoublingBalls-Shop.png){:height="355px" width="325px"}
+![overview](/assets/images/DoublingBalls-Shop.png){:class="img-responsive"}
+<br><br>
+Highscore and current score screen:
+![overview](/assets/images/DoublingBalls-Highscore.png){:class="img-responsive"}
 <br><br>
 
 I think it is best to let the game speak for itself :).<br>
