@@ -4,7 +4,7 @@ title: References
 permalink: /references/
 ---
 
-[Letters of recommodation]({{ site.url }}/assets/download/letters_of_recommendation_Pfaffmann.pdf) during my undergraduate studies at University of Applied Sciences Kaiserslautern.
+[Letters of Recommendation]({{ site.url }}/assets/download/letters_of_recommendation_Pfaffmann.pdf) during my Bachelor studies at University of Applied Sciences Kaiserslautern.
 <br>
 
 [Certificate of Bachelor's Degree]({{ site.url }}/assets/download/bachelor_degree_certificate_Pfaffmann.pdf) in Applied Computer Science at the University of Applied Sciences Kaiserslautern.
