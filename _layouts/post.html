@@ -9,6 +9,9 @@ layout: page
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+    
+    <br>
     {%- if page.github -%}
     <div align="center">
       <a href="{{ page.github }}">
@@ -18,7 +21,6 @@ layout: page
       </a>
     </div>
     {%- endif -%}
-    {{ content }}
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
