@@ -9,17 +9,16 @@ In this project I developed a *Run & Gun* game for Android smartphones in a team
 The app is written in Java and without the aid of any frameworks.
 That means everything is *handmade*: from the bitmap transformations to the physics of the ball (bounce effect).
 We were quite proud of this one!
-<br>
-<br>
+<br><br>
 
 Start screen:
-![overview](/assets/images/DoublingBalls-Start.png){:class="img-responsive"}
-<br><br>
-View of the shop:
-![overview](/assets/images/DoublingBalls-Shop.png){:class="img-responsive"}
+![overview](/assets/images/DoublingBalls-Start.png){:height="355px" width="325px"}
 <br><br>
 Explanation when first starting the actual game:
-![overview](/assets/images/DoublingBalls-Explanation.png){:class="img-responsive"}<br><br>
+![overview](/assets/images/DoublingBalls-Explanation.png){:height="355px" width="325px"}<br><br>
+View of the shop:
+![overview](/assets/images/DoublingBalls-Shop.png){:height="355px" width="325px"}
+<br><br>
 
 I think it is best to let the game speak for itself :).<br>
 Please have a look at the video below for an impression of the actual gameplay.<br><br>
