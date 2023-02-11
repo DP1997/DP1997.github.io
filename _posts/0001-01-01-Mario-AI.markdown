@@ -5,7 +5,7 @@ categories: jekyll update
 github: "https://github.com/DP1997/Mario-AI"
 ---
 
-In this project I implemented an autonomous agent operating Mario through randomly generated levels by utilizing the A*-search in a team of two. The major challenge was coming up with a proper heuristic that maximizes the score of Mario. We placed third in an oﬃcial competition held among all course members.<br>
+In this project I implemented an autonomous agent operating Mario through randomly generated levels by utilizing the A*-search in a team of two. The major challenge was coming up with a proper heuristic that maximizes the score of Mario. We placed first in an oﬃcial competition held among all course members.<br>
 I think a video will paint a clearer picture of what the agent does:
 {% include youtubePlayer.html id="AqjQTHlQvmw" %}
 Notice the *lag*-spikes in the video - these are the times that the processor has to boulder a heavy computanial load. This happens when the agent has to consider a lot of different paths (a lot of enemies can trigger this), in order to calculate the best one (highest score).<br>
