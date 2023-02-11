@@ -4,7 +4,7 @@ title: Work Experience
 permalink: /work_experience/
 ---
 
-For information about my work in the EXPECT project as a research assistant at the German Research Center for Artificial Intelligence (Cognitive Assistants department), please refer to the <a href="https://robotik.dfki-bremen.de/de/forschung/projekte/expect/">__official website__</a>.
+For information about my work in the EXPECT project as a research assistant at the German Research Center for Artificial Intelligence (Cognitive Assistants Department), please refer to the <a href="https://robotik.dfki-bremen.de/de/forschung/projekte/expect/">__official website__</a>.
 
 As the work I completed during my internships at __SN TPS__ and __Daimler Truck AG__ is __confidential__, I can't tell you much about it.
 I think it is best to stick to my internship certificates in this regard. They will provide you with a basic overview. You can find them in the following:
