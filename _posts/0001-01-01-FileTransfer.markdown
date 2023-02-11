@@ -9,6 +9,8 @@ github: "https://github.com/DP1997/FileTransfer"
 The project FileTransfer is a decentralized file transfer desktop application written in Java.
 It features a borderless, modern graphical user interface and a high error reistance against loss of internet connection.
 __Download the jars for [server]({{ site.url }}/assets/download/FileTransfer_server.jar) and [client]({{ site.url }}/assets/download/FileTransfer_client.jar) here!__
+<br>
+
 ![overview](/assets/images/FileTransfer_server0.PNG){:class="img-responsive"}<br>
 
 ## 2. Server
