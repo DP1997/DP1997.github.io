@@ -5,19 +5,19 @@ layout: page
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">
-      {%- if page.github -%}
-      <div align="right">
-        <a href="{{ page.github }}">
-            <span class="icon icon--github">
-              view code on {% include icon-github.svg %}
-            </span>
-        </a>
-      </div>
-      {%- endif -%}
     </h1>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.github -%}
+    <div align="center">
+      <a href="{{ page.github }}">
+          <span class="icon icon--github">
+            view this project on {% include icon-github.svg %}
+          </span>
+      </a>
+    </div>
+    {%- endif -%}
     {{ content }}
   </div>
 
